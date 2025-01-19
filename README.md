@@ -1,5 +1,5 @@
 # Peluquería Canina
-Desarrollo de una aplicación de escritorio para gestionar una peluquería canina.
+Desarrollo de una aplicación de escritorio con JAVA para gestionar una peluquería canina.
 
 ## Tecnologías y Conceptos Usados
 - JAVA
