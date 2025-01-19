@@ -6,3 +6,4 @@ Desarrollo de una aplicación de escritorio para gestionar una peluquería canin
 - Base de Datos Relacionales MySQL
 - JPA
 - Swing
+- Maven
